@@ -1,0 +1,7 @@
+site_name: Vulcan
+nav:
+  - Home: index.md
+  - Concepts:
+      - VulcanService: service.md
+      - VulcanServer: server.md
+theme: readthedocs
